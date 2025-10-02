@@ -1,3 +1,7 @@
+LINK VIDEO YOUTUBE:https://youtu.be/YuiJEdLCiOo
+
+
+
 Projeto de Detecção de Motos com YOLOv8
 Este projeto é um script de visão computacional em Python que utiliza o modelo de inteligência artificial YOLOv8 para detectar e rastrear motos em um stream de vídeo. O sistema processa frames em tempo real, desenhando caixas delimitadoras e exibindo o índice de confiança para cada detecção.
 
